@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ghaly Wa Mosh Herkhas |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghaly-wa-mosh-herkhas/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك نار بتشعلني
+> وقلبي في حبك بيغني
+> تعالي في حضني وضميني
+> معاك الروح بتطمني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
