@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك نار بتشعلني
+> وقلبي في حبك بيغني
+> تعالي في حضني وضميني
+> معاك الروح بتطمني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
