@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ghaly Wa Mosh Herkhas |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghaly-wa-mosh-herkhas/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Ghaly Wa Mosh Herkhas](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
