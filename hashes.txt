@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghaly Wa Mosh Herkhas
+
+This log tracks the cryptographic history and versioning for the song **Ghaly Wa Mosh Herkhas** (ghaly-wa-mosh-herkhas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:15:56.013393 | `v1` | `bae68874b37e19ec6de51bfc37b18cc41ff87ee8bd7de1f2461cb1aed96aa623` | `89d611789fe2334f00e7eb02cbd8f6492f440190f5de65476803449158073c9a` | `2026-05-08_ghaly-wa-mosh-herkhas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
